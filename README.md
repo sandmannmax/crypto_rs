@@ -1,3 +1,5 @@
-# Benchmark Test Prime Number Search
+# crypto_rs
 
-This is benchmark of of a simple algorithm and the "Sieve of Eratosthenes" algorithm for finding prime numbers.
+Implementation of some basic crypto functions
+
+WARNING: Do not use this in production! It is in no way a secure implementation of cryptographic functions
